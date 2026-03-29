@@ -1,11 +1,13 @@
 # image-ascii
 
-Convert image dimensions to ASCII art patterns.
-
-Zero dependencies. Python 3.8+.
+Image to ASCII Art Converter. Zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
 python3 image_ascii.py --help
 ```
+
+## License
+
+MIT
